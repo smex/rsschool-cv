@@ -1,3 +1,3 @@
 # rsschool-cv
 
-[cv](https://cnexxx.github.io/rsschool-cv/cv)
+[cv](https://smex.github.io/rsschool-cv/cv)
