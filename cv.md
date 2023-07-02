@@ -16,6 +16,7 @@ Now I'm studying the frontend because it's cool to create exactly what the user 
 - С
 - Assembler
 - Python
+- Java
 - Git
 
 ## __Code Example__
